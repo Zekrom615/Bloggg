@@ -52,7 +52,7 @@
             {{-- Sidebar --}}
             <div class="col-lg-4">
                 <div class="card mb-4">
-                    <div class="card-header fw-bold">About Bloggg</div>
+                    <div class="card-header bg-dark text-white fw-bold">About Bloggg</div>
                     <div class="card-body text-muted">
                         Bloggg is a simple blogging platform built with Laravel
                         where users can share posts and ideas.
@@ -60,7 +60,7 @@
                 </div>
 
                 <div class="card mb-4">
-                    <div class="card-header fw-bold">Quick Links</div>
+                    <div class="card-header bg-dark text-white fw-bold">Quick Links</div>
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">
                             <a href="/" class="text-decoration-none">Home</a>
